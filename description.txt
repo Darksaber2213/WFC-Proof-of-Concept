@@ -1,0 +1,3 @@
+Title: Wave Function Collapse
+Author: Carbon Zypher (Darksaber2213)
+Description: Wave Function Collapse (WFC) is a constraint-based Procedural Content Generation (PCG) algorithm.
