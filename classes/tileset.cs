@@ -1,0 +1,3 @@
+function Tileset::constructor(%this)
+{
+}

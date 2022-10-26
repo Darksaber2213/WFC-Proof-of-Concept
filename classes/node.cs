@@ -1,0 +1,3 @@
+function Node::constructor(%this)
+{
+}
